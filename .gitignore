@@ -1,0 +1,4 @@
+out/artifacts/*
+out/production/*
+*.tsv
+prepare.sh
